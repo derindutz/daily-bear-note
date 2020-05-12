@@ -6,7 +6,7 @@ Automatically creates a note in [Bear](https://bear.app/) titled with today's da
 If you're logged into your computer, the note is created at 4AM. Otherwise, the note is created whenever you log in.
 
 
-## Installation
+## How do I install it?
 1. Download `daily-bear-note.scpt` and put it somewhere on your computer. Mine is at `/Users/derindutz/Dropbox/Developer/scripts/daily-bear-note.scpt`
 
 2. Download `local.DailyBearNote.plist` and open it in your favorite editor
