@@ -5,6 +5,7 @@ Automatically creates a note in Bear titled with today's date.
 
 If you're logged into your computer, the note is created at 4AM. Otherwise, the note is created whenever you log in.
 
+
 ## Installation
 1. Download `daily-bear-note.scpt` and put it somewhere on your computer. Mine is at `/Users/derindutz/Dropbox/Developer/scripts/daily-bear-note.scpt`
 
