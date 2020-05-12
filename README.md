@@ -1,5 +1,5 @@
 # daily-bear-note
-Automatically creates a note in Bear titled with today's date.
+Automatically creates a note in [Bear](https://bear.app/) titled with today's date.
 
 ![Daily Bear Note Screenshot](/daily-bear-note-screenshot.png)
 
