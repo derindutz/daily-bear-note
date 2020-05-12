@@ -15,4 +15,4 @@ If you're logged into your computer, the note is created at 4AM. Otherwise, the 
 
 4. Save `local.DailyBearNote.plist` and put it in `~Library/LaunchAgents`
 
-5. Log out and back in and everything should be good to go! You can test run it by running `launchctl start local.DailyBearNote` from your terminal
+5. Log out and back in and everything should be good to go! You can test it by running `launchctl start local.DailyBearNote` from your terminal
